@@ -1,10 +1,6 @@
 Shell-Scripting
 ===============
 
-Gotta learn the shell.
-
-The shell is ubiquitous, essential for a anything with computers.  Git, AWS
-
 
 ###Index of Topics:
 
