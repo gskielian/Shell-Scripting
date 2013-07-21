@@ -1,0 +1,14 @@
+
+
+
+
+
+List of commands
+
+1. <esc> to normal mode
+2. `i` to insert mode
+3. `v` to visual mode
+4. `V` to visual line mode
+5. `<esc> w` to save
+6. `<esc> q` to quit (if already saved)
+7
