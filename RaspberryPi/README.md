@@ -68,5 +68,4 @@ do
     echo 1 > /sys/class/gpio/gpio$1/value
     sleep 3
 done
-done
 ```
