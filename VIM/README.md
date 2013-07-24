@@ -8,7 +8,6 @@ Modes
 
 
 
-
 Abbreviations
 ============
 
@@ -23,10 +22,13 @@ Macros
 
 Autocomplete:
 =============
-- <c-n>
-- <c-p>
+- `<c-n>` autocomplete from subsequent words
+- `<c-p>` autocomplete from previous words
+- `<c-l>` autocomplete the entire line (hence the 'l')
+- `<c-i><c-n>` autocomplete with dropdown menu
+- `<c-x><c-f>` autocomplete filenames
 
-Marks
+Marks 
 =====
 - `m` then `[a letter]` to set a mark
 - `'` then `[marked letter]` to go directly to that mark
