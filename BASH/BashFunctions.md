@@ -9,8 +9,8 @@ For me I've always wanted to be able to push commits from the command line in a 
 
 ```bash
 function ggitz () {
-/usr/local/bin/git add *;
-/usr/local/bin/git commit -m $1;
-/usr/local/bin/git push origin master;
+/usr/local/bin/git add * ;
+/usr/local/bin/git commit -m "$1" ; 
+/usr/local/bin/git push origin master ;
 }
 ```
