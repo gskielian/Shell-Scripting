@@ -2,10 +2,10 @@ Figlet
 ======
 
 
-## Installing Figlet in a Mac (need to have brew first)
+### Installing Figlet in a Mac (need to have brew first)
 ``bash
 brew install figlet
-````
+```
 
 
 ### Browse the spiffy font-types
