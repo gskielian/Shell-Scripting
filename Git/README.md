@@ -34,3 +34,8 @@ To push your changes to the website, just type the following:
 git add * ; git commit -m "added some stuff" ; git push origin master
 ```
 
+Learn more about git here:
+http://zachholman.com/talk/more-git-and-github-secrets/
+
+
+:shipit:
