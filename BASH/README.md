@@ -24,6 +24,7 @@ try the following on for size:
 - Tab Completion, just press tab a lot (get into the habit) & see what it does.
 - up and down arrows, these can search through past commmands so you can save on keypresses
 - aliases -- a topic of their own, these can greatly abbreviate long commands
+- Bash Functions -- like aliases but can take in arguments : )
 
 
 ##Changing Directories
