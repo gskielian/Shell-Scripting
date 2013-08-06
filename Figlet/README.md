@@ -20,7 +20,7 @@ for line in `figlist`; do figlet -f $line $line; done
 ### Fire Away !: ) 
 
 ```bash
-figlet -f StarWars "Epic Banner"
+figlet -f StarWars "Epic ReadmeBanner"
 ```
 
  _______ .______    __    ______ 
