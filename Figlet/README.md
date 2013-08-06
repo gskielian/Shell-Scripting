@@ -1,10 +1,11 @@
+```
   _____.__       .__          __   
 _/ ____\__| ____ |  |   _____/  |_ 
 \   __\|  |/ ___\|  | _/ __ \   __\
  |  |  |  / /_/  >  |_\  ___/|  |  
  |__|  |__\___  /|____/\___  >__|  
          /_____/           \/      
-
+```
 ### Installing Figlet in a Mac (need to have brew first)
 ```bash
 brew install figlet
@@ -22,7 +23,7 @@ for line in `figlist`; do figlet -f $line $line; done
 ```bash
 figlet -f StarWars "Epic ReadmeBanner"
 ```
-
+```
  _______ .______    __    ______ 
 |   ____||   _  \  |  |  /      |
 |  |__   |  |_)  | |  | |  ,----'
@@ -36,3 +37,4 @@ figlet -f StarWars "Epic ReadmeBanner"
 |   _  <    /  /_\  \   |  . `  | |  . `  | |   __|  |      /     
 |  |_)  |  /  _____  \  |  |\   | |  |\   | |  |____ |  |\  \----.
 |______/  /__/     \__\ |__| \__| |__| \__| |_______|| _| `._____|
+`
