@@ -36,7 +36,7 @@ Macros are saved on your computer -- you will be able to use them in future sess
 
 1. press <esc> to go to normal-mode
 2. press @ then the letter you stored the macro in 
-3. The macro plays automagically! :sparkles:
+3. :sparkles: The macro plays automagically! :sparkles:
 
 
 
