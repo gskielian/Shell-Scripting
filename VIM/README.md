@@ -20,6 +20,26 @@ remapping the <esc> key
 Macros
 ======
 
+You can record your input to do again later (think repetive tasks like writing a while loop).
+
+Macros are saved on your computer -- you will be able to use them in future sessions.
+
+#### Recording a macro
+
+1. press <esc> to go to normal-mode
+2. press 'q' then <em>some letter</em> which you will store the macro in
+3. type your macro
+4. press <esc>
+5. press <q>
+
+#### Playing a macro
+
+1. press <esc> to go to normal-mode
+2. press @ then the letter you stored the macro in 
+3. The macro plays automagically! :sparkles:
+
+
+
 Autocomplete:
 =============
 - `<c-n>` autocomplete from subsequent words
