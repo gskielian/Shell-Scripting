@@ -93,3 +93,6 @@ Shortcuts
 - e
 - b
 
+##Further Reading
+
+* http://mislav.uniqpath.com/2011/12/vim-revisited/
