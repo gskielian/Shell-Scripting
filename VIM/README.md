@@ -8,6 +8,24 @@ Modes
 
 
 
+Syntax Highlighting
+===================
+
+Make Vim look cool by adding color!
+
+Simply add syntax highlighting by typing
+```vim
+:syntax on
+```
+in Normal Mode.
+
+Then select your style by typing
+```vim
+:color <tab>
+```
+and keep pressing tab to scroll through different themes:) 
+
+
 Abbreviations
 ============
 
