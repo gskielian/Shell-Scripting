@@ -72,6 +72,25 @@ Marks
 - `'` then `[marked letter]` to go directly to that mark
 
 
+Code Folding
+============
+
+- go to the `{` and then in normal-mode type `zf%`.  zf will fold everything between the `{` and `}`
+it will look like this
+
+```bash
+function () {
+
+//imagine that this function was really really long instead of just 5 lines.
+
+}
+```
+
+```bash
++------  5 lines: function (){----------------------------------------------------------------------------------------------------------------------------------------------------
+```
+
+
 Shortcuts
 =========
 ##Document Shortcuts
