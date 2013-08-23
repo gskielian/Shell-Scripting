@@ -6,6 +6,10 @@ Topics
 Modes
 ======
 
+- Normal Mode
+- Insert Mode
+- Visual Mode
+- Block Visual Mode
 
 
 Syntax Highlighting
