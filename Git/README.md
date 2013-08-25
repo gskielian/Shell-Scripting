@@ -1,9 +1,8 @@
 GIT
 ===
 
-Git is epic.  It just destroyed SVN and its competitors about 4 months ago, becoming just this year the defacto way tocollaborate on code.
-
-You will need to learn the command line options to get the most out of Git (at least if you want to create directories).
+Git is epic.  
+You will need to learn the command line options to get the most out of Git.
 
 
 ##Installing Git-Command-Line-Tools in a Mac
