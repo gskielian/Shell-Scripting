@@ -30,7 +30,7 @@ source ~/.bashrc
 
 
 
-(or you could alternatively log out and log in again)
+(or alternatively you could log out and log in again)
 
 
 ## Caveat:
