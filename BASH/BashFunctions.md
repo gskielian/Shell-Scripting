@@ -6,7 +6,8 @@ Once you've seen the power of aliases, you've probably wanted to customize your 
 
 For me I've always wanted to be able to push commits from the command line in a faster manner.
 
-add these to the bottom of your `~/.bashrc` file (or `~/.bash_profile` file for Macs I believe)
+Add these to the bottom of your `~/.bashrc` file (or `~/.bash_profile` file for Macs I believe)
+
 
 ```bash
 function gpush () {
