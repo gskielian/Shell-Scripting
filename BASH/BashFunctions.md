@@ -28,11 +28,11 @@ to grant access to these you can simply type the following into your command lin
 source ~/.bashrc
 ```
 
-
-
 (or alternatively you could log out and log in again)
 
+Now you can just need to type `gpush "epic commit log"` in order to push your changes to the master branch.
 
-## Caveat:
+
+# Caveat:
 
 Make sure you find out `which git` (type that into the command line) and use that for your path (for example with some computers your git will live in `/usr/bin/git` instead of `/usr/local/bin/git` -- ten cuidado)
