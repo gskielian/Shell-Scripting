@@ -31,7 +31,7 @@ CNTL + e  -- goes to the end of the line
 
 Piping and Redirection:
 
-`Echo "Hi" | mail -s "Hello Email" username@gmail.com`
+`echo "Hi" | mail -s "Hello Email" username@gmail.com`
 
 Index of Bash CLI Utilities:
 (alphabeticed click for examples)
