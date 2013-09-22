@@ -2,18 +2,18 @@ Figlet
 ======
 
 
-### Installing Figlet in a Mac (need to have brew first)
+### Installing Figlet
+
+In a Mac (need brew first)
 ```bash
 brew install figlet
 ```
 
-### Installing Figlet in Ubuntu or Debian Based Linux
+In Ubuntu or Debian Based Linux
 
 ```bash
 sudo apt-get install figlet
 ```
-
-That's all
 
 
 ### Browse the spiffy font-types
