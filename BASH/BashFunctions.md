@@ -30,7 +30,7 @@ source ~/.bashrc
 
 (or alternatively you could log out and log in again)
 
-Now you can just need to type `gpush "epic commit log"` in order to push your changes to the master branch.
+Now, for example, you can just need to type `gpush "epic commit log"` in order to push your changes to the master branch.
 
 
 # Caveat:
